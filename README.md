@@ -6,6 +6,14 @@ Incremental and Multi-feature Tensor Subspace Learning applied for Background Mo
 
 <p align="center"><img src="https://sites.google.com/site/ihosvd/_/rsrc/1405352965295/ihosvd.png" /></p>
 
+```
+Matlab Tensor Tools
+https://github.com/andrewssobral/mtt
+
+Matrix and Tensor Tools for Computer Vision 
+http://www.slideshare.net/andrewssobral/matrix-and-tensor-tools-for-computer-vision
+```
+
 Highlights
 ----------
 * Proposes an incremental low-rank HoSVD (iHOSVD) for background modeling and subtraction.
