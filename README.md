@@ -4,6 +4,11 @@ Incremental and Multi-feature Tensor Subspace Learning applied for Background Mo
 
 <p align="center"><img src="https://sites.google.com/site/ihosvd/_/rsrc/1405352965295/ihosvd.png" /></p>
 
+Highlights
+----------
+* Proposes an incremental low-rank HoSVD (iHOSVD) for background modeling and subtraction.
+* A unified tensor model to represent the features extracted from the streaming video data.
+
 Citation
 ---------
 Please, if you use this code for your publications, please cite it as:
