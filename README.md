@@ -1,4 +1,4 @@
-Last update: **08/09/2014**
+Last update: **05/11/2014**
 
 IMTSL
 -----
@@ -38,6 +38,10 @@ Abstract
 --------
 Background subtraction (BS) is the art of separating moving objects from their background. The Background Modeling (BM) is one of the main steps of the BS process. Several subspace learning (SL) algorithms based on matrix and tensor tools have been used to perform the BM of the scenes. However, several SL algorithms work on a batch process increasing memory consumption when data size is very large. Moreover, these algorithms are not suitable for streaming data when the full size of the data is unknown. In this work, we propose an incremental tensor subspace learning that uses only a small part of the entire data and updates the low-rank model incrementally when new data arrive. In addition, the multi-feature model allows us to build a robust low-rank background model of the scene. Experimental results shows that the proposed method achieves interesting results for background subtraction task.
 
+IncrementalHoSVD
+----------------
+<p align="left"><img src="https://sites.google.com/site/ihosvd/incrementalHOSVD.png?width=600" /></p>
+
 Source code
 -----------
 ```
@@ -59,3 +63,7 @@ The source code is available only for academic/research purposes (non-commercial
 Problems or Questions
 ---------------------
 If you have any problems or questions, please contact the author: Andrews Sobral (andrewssobral@gmail.com)
+
+References
+----------
+[1] Baker, C.G.; Gallivan, K.A.; Van Dooren, P. Low-rank incremental methods for computing dominant singular subspaces, 2012.
