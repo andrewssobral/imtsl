@@ -21,7 +21,7 @@ Highlights
 
 Citation
 ---------
-Please, if you use this code for your publications, please cite it as:
+If you use this code for your publications, please cite it as:
 ```
 @inproceedings{asobral2014,
     author       = "Sobral, A. and Baker, C. G. and Bouwmans, T. and Zahzah, E.",
