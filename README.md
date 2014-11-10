@@ -7,10 +7,15 @@ Incremental and Multi-feature Tensor Subspace Learning applied for Background Mo
 <p align="center"><img src="https://sites.google.com/site/ihosvd/_/rsrc/1405352965295/ihosvd.png" /></p>
 
 ```
-Matlab Tensor Tools
+See also:
+
+LRSLibrary: Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos
+https://github.com/andrewssobral/lrslibrary
+
+MTT: Matlab Tensor Tools
 https://github.com/andrewssobral/mtt
 
-Matrix and Tensor Tools for Computer Vision 
+Presentation about Matrix and Tensor Tools for Computer Vision 
 http://www.slideshare.net/andrewssobral/matrix-and-tensor-tools-for-computer-vision
 ```
 
