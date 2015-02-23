@@ -45,7 +45,7 @@ Background subtraction (BS) is the art of separating moving objects from their b
 
 IncrementalHoSVD
 ----------------
-<p align="left"><img src="https://sites.google.com/site/ihosvd/incrementalHOSVD.png?width=600" /></p>
+<p align="left"><img src="https://sites.google.com/site/andrewssobral/ihosvd-alg.png?width=600" /></p>
 
 Source code
 -----------
