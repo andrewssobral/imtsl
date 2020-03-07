@@ -4,7 +4,7 @@ IMTSL
 -----
 Incremental and Multi-feature Tensor Subspace Learning applied for Background Modeling and Subtraction
 
-<p align="center"><img src="https://sites.google.com/site/ihosvd/_/rsrc/1405352965295/ihosvd.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/andrewssobral/imtsl/master/doc/images/ihosvd.png" /></p>
 
 ```
 See also:
@@ -45,7 +45,7 @@ Background subtraction (BS) is the art of separating moving objects from their b
 
 IncrementalHoSVD
 ----------------
-<p align="left"><img src="https://sites.google.com/site/andrewssobral/ihosvd-alg.png?width=600" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/andrewssobral/imtsl/master/doc/images/ihosvd-alg.png" width="600" /></p>
 
 Source code
 -----------
